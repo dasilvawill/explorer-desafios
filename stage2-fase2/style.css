@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  padding: 900;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+
+#logo {
+  margin: 64px auto 32px;
+  position: static;
+  width: 350px;
+  height: 238px;
+}
+
+h1 {
+  font-family: 'Dosis', sans-serif;
+  color: #3F3D56;
+  font-size: 32px;
+  font-weight: 500;
+  width: 494px;
+  margin: 0 auto;
+}
+
+h1 #destino {
+  font-weight: 700;
+  color: #EE24FF;
+}
+
+p {
+  font-size: 15px;
+  color: #828282;
+  width: 540px;
+  margin: 16px auto 0;
+}
+
+#text2 {
+  margin-top: 32px;
+}
+
+p span, #footer a {
+  color: #3F3D56;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+#footer a + a {
+  margin-left: 30px;
+  color: #3F3D56;
+}
+
+#line {
+  width: 391px;
+  height: 0;
+  margin: 64px auto 16px;
+  border: 1px#ECEFF2 solid;
+}
+
+#wave {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  left: 0;
+}

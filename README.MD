@@ -1,6 +1,6 @@
 # Rocketseat
 
-<a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a> é uma plataforma de educação em tecnologia que oferece cursos online e gratuitos para desenvolvedores. A Rocketseat tem como objetivo capacitar profissionais e impulsionar suas carreiras no mercado de programação.
+[Rocketseat](https://rocketseat.com.br/) é uma plataforma de educação em tecnologia que oferece cursos online e gratuitos para desenvolvedores. A Rocketseat tem como objetivo capacitar profissionais e impulsionar suas carreiras no mercado de programação.
 
 ## Sobre a trilha
 
